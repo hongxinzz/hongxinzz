@@ -11,8 +11,7 @@ I'm zhuohongxin, a front-end developer.
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue.js)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- ⚙️ I also use and work:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+- ⚙️ I also use and work:  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=plastic&logo=TypeScript)
 - 🌱 Learning all about:
