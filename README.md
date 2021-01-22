@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I'm zhuohongxin, a front-end developer.
+
 
 - 🏢  I'm currently working at **GaoDing Design**
 - 🚀  I use daily:
