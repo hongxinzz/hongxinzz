@@ -22,4 +22,3 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
 
-![panel](https://github-readme-stats.vercel.app/api?username=hongxinzz)
