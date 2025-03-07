@@ -22,3 +22,10 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
 
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=hongxinzz)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongxinzz)
+
+
+
