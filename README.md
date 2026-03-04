@@ -2,7 +2,7 @@
 
 
 
-- 🏢  I'm currently working at **MEITU**
+- 🏢  I'm currently working at **KinsSoft**
 - 🚀  I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -24,7 +24,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongxinzz)
 
 
 
