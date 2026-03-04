@@ -10,6 +10,7 @@
 - 💻  I work using:
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue.js)
   ![Sass](https://img.shields.io/badge/-Sass-3b2e5a?style=plastic&logo=Sass)
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=React)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - 🔥  I also use and work:  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
